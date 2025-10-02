@@ -142,8 +142,3 @@ MIT License — feel free to use, modify, and share.
 * Moodle integration via [Moodle Web Services API](https://docs.moodle.org/dev/Web_service_API_functions).
 
 ```
-
----
-
-Do you want me to also generate a **`.env.example` file** for your repo, so people know what keys to set but without exposing real secrets?
-```
